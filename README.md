@@ -15,6 +15,7 @@ Create a download file.
 Wait for email, it takes facebook sometime to compile your JSON.
 <img src="https://github.com/connerkward/Hive-for-Facebook/blob/master/images/facebook-messenger-history-download-on-desktop-step-3.jpg" width="600">
 Lastly, find the specific chat json you want to analyze, and run.
+
 ```
 python3 hive.py
 ```
