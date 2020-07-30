@@ -1,4 +1,5 @@
-# FacebookChat-Tool
+# Hive for Facebook
+A Facebook Chat Analysis Tool
 ```
 python3 hive.py
 ```
