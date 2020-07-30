@@ -1,5 +1,7 @@
 # Hive for Facebook
 A Facebook Chat Analysis Tool
+
+<h3>Usage</h3>
 ```
 python3 hive.py [filename]
 ```
