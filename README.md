@@ -10,17 +10,19 @@ Using downloadable Facebook Chat JSON files, can generate word counts, and marko
 <h3>Poetic Examples:</h3>
 
 ```
-Irl i used to you. Shake em. I would be looking to show my urban expedition outfit. Shirt tucked p***.
+Irl i used to you. Shake em. I would be looking to show my urban expedition outfit. Shirt tucked p*nis.
 ```
 
 ```
 Swimming in camp. Buggy. This is now you dawsons creek. 
-I just to be chained up sweater. Im not pretending like to watch. 
-Its gonna join the leopard seal because on ps4 is for the cheeseballs.. Boomer vs intuitive comfort.
+Im not pretending like to watch. 
+Boomer vs intuitive comfort.
+You guys I know.
 ```
 
 ```
-Either make them off notifications from Korra. Bruh why don't think it's involving not a lot have to see Ippo art.
+Either make them off notifications from Korra. 
+Bruh why don't think it's involving not a lot have to see Ippo art.
 That's your ass alive. I had sexual moments and GL.
 Henry Cavill played Knack 2.
 ```
