@@ -7,9 +7,7 @@ Using downloadable Facebook Chat JSON files, can generate word counts, and marko
 
 **Can also generate thoughts from your chat's collective conciousness.**
 
-
-<h4>How to download a Facebook Chat<\h4>
-
+<h3>How to download a Facebook Chat</h3>
 <img src="https://github.com/connerkward/Hive-for-Facebook/blob/master/images/facebook-messenger-history-download-on-desktop-step-1-1.jpg" width="600">
 <img src="https://github.com/connerkward/Hive-for-Facebook/blob/master/images/facebook-messenger-history-download-on-desktop-step-2.jpg" width="600">
 <img src="https://github.com/connerkward/Hive-for-Facebook/blob/master/images/facebook-messenger-history-download-on-desktop-step-3.jpg" width="600">
