@@ -1,7 +1,7 @@
 # Hive for Facebook
 A Facebook Chat Analysis Tool
 ```
-python3 hive.py
+python3 hive.py [filename]
 ```
 Using downloadable Facebook Chat JSON files, can generate word counts, and markov chain style random messages.
 
@@ -38,5 +38,5 @@ Wait for email, it takes facebook sometime to compile your JSON.
 Lastly, find the specific chat json you want to analyze, place it in the same folder as the .py, and run.
 
 ```
-python3 hive.py
+python3 hive.py [filename]
 ```
