@@ -1,4 +1,5 @@
 # Hive for Facebook
+<img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/connerkward/SmartSpaceBucket"> ![GitHub](https://img.shields.io/github/license/connerkward/SmartSpaceBucket) <img alt="GitHub issues" src="https://img.shields.io/github/issues-raw/connerkward/SmartSpaceBucket"> <img alt="GitHub followers" src="https://img.shields.io/github/followers/connerkward?label=Follow&style=social"><br/>
 A Facebook Chat Analysis Tool
 
 <h3>Usage:</h3>
