@@ -16,8 +16,9 @@ Irl i used to you. Shake em. I would be looking to show my urban expedition outf
 ```
 Swimming in camp. Buggy. This is now you dawsons creek. 
 Im not pretending like to watch. 
-Boomer vs intuitive comfort.
 You guys I know.
+
+Boomer vs intuitive comfort.
 ```
 
 ```
