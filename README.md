@@ -7,13 +7,16 @@ Using downloadable Facebook Chat JSON files, can generate word counts, and marko
 
 **Can also generate thoughts from your chat's collective conciousness.**
 
-<h3>Examples:</h3>
+<h3>Poetic Examples:</h3>
+
 ```
 Irl i used to you. Shake em. I would be looking to show my urban expedition outfit. Shirt tucked p***.
 ```
 
 ```
-Swimming in camp. Buggy. This is now you dawsons creek. Are you were never see a second after i could be gassed.. I just to be chained up sweater. Im not pretending like to watch. Its gonna join the leopard seal because on ps4 is for the cheeseballs.. Boomer vs intuitive comfort.
+Swimming in camp. Buggy. This is now you dawsons creek. 
+I just to be chained up sweater. Im not pretending like to watch. 
+Its gonna join the leopard seal because on ps4 is for the cheeseballs.. Boomer vs intuitive comfort.
 ```
 
 ```
