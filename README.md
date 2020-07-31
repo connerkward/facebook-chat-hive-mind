@@ -10,7 +10,7 @@ python3 hive.py [filename]
 
 Using downloadable Facebook Chat JSON files, can generate word counts, and markov chain style random messages.
 
-**Can also generate thoughts from your chat's collective conciousness.**
+**Can also generate thoughts from your chat's collective consciousness.**
 
 <h3>Poetic Examples:</h3>
 
